@@ -157,15 +157,17 @@ git clone https://github.com/Zer0-Bug/ArcadeSpaceShooter_SFML.git
 cd ArcadeSpaceShooter_SFML
 ```
 
-### 3. Compilation (GCC/Linux/MingW)
-SFML library installed on your system. You can download it from [here](https://www.sfml-dev.org/download.php).
+### 3. Download SFML Library
+SFML library installed on your system. You can download it from [here](https://www.sfml-dev.org/download.php). 
+
+### 4. Compilation (GCC/Linux/MingW)
 Ensure the SFML library paths are correctly linked in your environment:
 
 ```bash
 g++ SFML/SpaceShooter.cpp -o space-shooter -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
-### 4. Running the Game
+### 5. Running the Game
 Execute the binary. Note: The external DLLs in `SFML-2.6.1/bin` may need to be in the same directory as the executable on Windows.
 
 ```bash
