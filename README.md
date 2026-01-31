@@ -152,6 +152,8 @@ Ensure you have a C++ compiler installed (GCC or MSVC) and the SFML developer he
 ### 2. Acquisition
 ```bash
 git clone https://github.com/Zer0-Bug/ArcadeSpaceShooter_SFML.git
+```
+```bash
 cd ArcadeSpaceShooter_SFML
 ```
 
