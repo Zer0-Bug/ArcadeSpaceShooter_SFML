@@ -158,6 +158,7 @@ cd ArcadeSpaceShooter_SFML
 ```
 
 ### 3. Compilation (GCC/Linux/MingW)
+SFML library installed on your system. You can download it from [here](https://www.sfml-dev.org/download.php).
 Ensure the SFML library paths are correctly linked in your environment:
 
 ```bash
