@@ -59,7 +59,7 @@ This implementation transitions from procedural logic to a robust **Object-Orien
 <h2 align="center">Project Structure</h2>
 
 ```
-Project_SpaceShooterGame-.-SFML/
+ArcadeSpaceShooter_SFML/
 ├── LICENSE                                   # MIT License
 ├── README.md                                 # Project documentation
 │
@@ -151,8 +151,8 @@ Ensure you have a C++ compiler installed (GCC or MSVC) and the SFML developer he
 
 ### 2. Acquisition
 ```bash
-git clone https://github.com/Zer0-Bug/Project_SpaceShooterGame-.-SFML.git
-cd Project_SpaceShooterGame-.-SFML
+git clone https://github.com/Zer0-Bug/ArcadeSpaceShooter_SFML.git
+cd ArcadeSpaceShooter_SFML
 ```
 
 ### 3. Compilation (GCC/Linux/MingW)
